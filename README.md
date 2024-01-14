@@ -2,6 +2,7 @@
 
 ## My name is Sergey and I'm quality assurance engineer.
 
+### telegram: @Bryazgin
 
 ## Tools
 <p align="center"
